@@ -1,0 +1,14 @@
+{
+  "name": "Synup Website",
+  "version": "0.0.0",
+  "description": "Source for synup.com",
+  "private": true,
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
